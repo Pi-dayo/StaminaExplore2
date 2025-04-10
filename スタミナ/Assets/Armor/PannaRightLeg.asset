@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a459415c58ba6b4ca469a5674befecc, type: 3}
+  m_Name: PannaRightLeg
+  m_EditorClassIdentifier: 
+  name: "\u3071\u3093\u306A\u306E\u30BA\u30DC\u30F3(\u53F3)"
+  sprite:
+  - {fileID: 21300000, guid: 89960af427ccece4898eadb8658b7408, type: 3}
+  - {fileID: 21300000, guid: 4e3ad5e41726ad64abd9f23fb293994b, type: 3}
+  - {fileID: 21300000, guid: 444a965dc26cd824ebe2b0e770dc11fb, type: 3}
+  - {fileID: 21300000, guid: d68e8828770c33b47a0cac4ef9ba2e5b, type: 3}
+  - {fileID: 21300000, guid: a823e2323d7f27b408153cb5d8b41a78, type: 3}
+  - {fileID: 21300000, guid: 952bafa8f38c16446ab1435cc355d534, type: 3}
+  - {fileID: 21300000, guid: c77caecaaad13614d8c731ff0325c195, type: 3}
+  - {fileID: 21300000, guid: 7f2e115d80613d64397a16dae12ee957, type: 3}
+  description: "\u3071\u3093\u306A\u306E\u30BA\u30DC\u30F3\u306E\u304A\u3055\u304C\u308A"
+  partType: 6

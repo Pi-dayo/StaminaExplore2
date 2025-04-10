@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a459415c58ba6b4ca469a5674befecc, type: 3}
+  m_Name: PannaRightHand
+  m_EditorClassIdentifier: 
+  name: "\u3071\u3093\u306A\u306E\u30B0\u30ED\u30FC\u30D6(\u53F3)"
+  sprite:
+  - {fileID: 21300000, guid: a4aae2fbc0af59c4cbe33212081f4435, type: 3}
+  - {fileID: 21300000, guid: 956a5051f38d25e4fb6b0eef8a429843, type: 3}
+  - {fileID: 21300000, guid: a7990770e847c6a40a460d5945b84e0d, type: 3}
+  - {fileID: 21300000, guid: 34798254261125c47b02d91c3e3a02d6, type: 3}
+  - {fileID: 21300000, guid: 438cd0b653e483e43af1f66a242dfe06, type: 3}
+  - {fileID: 21300000, guid: d4fab221f69030c47b84c944791476dd, type: 3}
+  - {fileID: 21300000, guid: 9d48eb08bfa8738419545bbf3ed74b7a, type: 3}
+  - {fileID: 21300000, guid: b0352076692fdcf468562926e17cbad9, type: 3}
+  description: "\u3071\u3093\u306A\u306E\u30B0\u30ED\u30FC\u30D6\u306E\u304A\u3055\u304C\u308A"
+  partType: 4
